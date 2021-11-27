@@ -10,7 +10,6 @@ function friendNums(x, y){
     }
     else{
         console.log("They are not friend number")
-        console.log(sum)
     }
 }
 
